@@ -1,0 +1,144 @@
+body{
+    background-color: rgb(21, 20, 20);
+}
+.color_x h1{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+}
+.color_x h4{
+    color:rgb(37, 135, 221) ;
+}
+.link_section{
+    color: blue;
+    text-transform: uppercase;
+}
+.values1{
+    color: rgb(217, 255, 0);
+    text-align: center;background-color: rgba(208, 212, 215, 0.162);
+    margin-bottom: 10px;
+    font-size: 50px;
+}
+.values2{
+    text-align: center;
+    background-color: rgba(208, 212, 215, 0.162);
+    margin-bottom: 10px;
+    color: #ff1985;
+}
+.values3{
+    text-align: center;
+    background-color: rgba(208, 212, 215, 0.162);
+    margin-bottom: 10px;
+    color: #4682b4;
+}
+.values4{
+    text-align: center;
+    background-color: rgba(208, 212, 215, 0.162);
+    margin-bottom: 10px;
+    color: #8ba8b7;
+}
+.values5{
+    text-align: center;
+    background-color: rgba(208, 212, 215, 0.162);
+    margin-bottom: 10px;
+    color: #32127a;
+}
+.values6{
+    text-align: center;
+    background-color: rgba(208, 212, 215, 0.162);
+    margin-bottom: 10px;
+    color: #007474;
+}
+.values7{
+    text-align: center;
+    background-color: rgba(208, 212, 215, 0.162);
+    margin-bottom: 10px;
+    color: #003153;
+}
+.values8{
+    text-align: center;
+    background-color: rgba(208, 212, 215, 0.162);
+    margin-bottom: 10px;
+    color: #36648b;
+}
+.values9{
+    text-align: center;
+    background-color: rgba(208, 212, 215, 0.162);
+    margin-bottom: 10px;
+    color: #003153;
+}
+.values10{
+    text-align: center;
+    background-color: rgba(208, 212, 215, 0.162);
+    margin-bottom: 10px;
+    color: #4a708b;
+    margin-bottom: 100px;
+}
+.hsl_values{
+    color: rgb(217, 255, 0);
+    text-align: center;
+    background-color: rgba(208, 212, 215, 0.162);
+    margin-bottom: 10px;
+    font-size: 50px;
+}
+.value1{
+    text-align: center;
+    background-color: rgba(95, 167, 223, 0.281);
+    margin-bottom: 10px;
+    color: hsl(0, 100%, 90%);
+}
+.value2{
+    text-align: center;
+    background-color: rgba(95, 167, 223, 0.281);
+    margin-bottom: 10px;
+    color: hsl(3, 49%, 56%);
+}
+.value3{
+    text-align: center;
+    background-color: rgba(95, 167, 223, 0.281);
+    margin-bottom: 10px;
+    color:  hsl(9, 100%, 64%);
+}
+.value4{
+    text-align: center;
+    background-color: rgba(95, 167, 223, 0.281);
+    margin-bottom: 10px;
+    color: hsl(22, 90%, 19%);
+}
+.value5{
+    text-align: center;
+    background-color: rgba(95, 167, 223, 0.281);
+    margin-bottom: 10px;
+    color:hsl(29, 83%, 61%) ;
+}
+.value6{
+    text-align: center;
+    background-color: rgba(95, 167, 223, 0.281);
+    margin-bottom: 10px;
+    color: hsl(31, 100%, 24%);
+}
+.value7{
+    text-align: center;
+    background-color: rgba(95, 167, 223, 0.281);
+    margin-bottom: 10px;
+    color: hsl(82, 39%, 30%);
+}
+.value8{
+    
+    text-align: center;
+    background-color: rgba(95, 167, 223, 0.281);
+    margin-bottom: 10px;
+    color: hsl(89, 72%, 21%) ;
+}
+.value9{
+    text-align: center;
+    background-color: rgba(95, 167, 223, 0.281);
+    margin-bottom: 10px;
+    color:hsl(180, 100%, 40%) ;
+}
+.value10{
+    text-align: center;
+    background-color: rgba(95, 167, 223, 0.281);
+    margin-bottom: 10px;
+    color: hsl(202, 18%, 46%);
+}
